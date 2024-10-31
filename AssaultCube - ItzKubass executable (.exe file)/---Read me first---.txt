@@ -1,7 +1,0 @@
-1. Open AssaultCube
-2. Run AssaultCube Simple Cheat - ItzKubass.exe
-
---- Do not remove cimgui.dll ---
-
-github: ItzKubass
-discord: .kubass
