@@ -15,6 +15,8 @@ This project is a simple cheat for the game **AssaultCube**. It allows players t
   - TMP-M&A Carbine
 - **Infinite Grenades**: Allows the player to have unlimited grenades.
 
+![image](https://github.com/user-attachments/assets/d05a7d6e-82f0-4962-8e32-dba44cd3b7ee)
+
 ## Libraries
 
 This project utilizes the following libraries:
