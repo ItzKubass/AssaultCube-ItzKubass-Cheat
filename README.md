@@ -1,4 +1,4 @@
-# AssaultCube Simple Cheat - ItzKubass
+# AssaultCube Simple Cheat - ItzKubass (1.3.0.2)
 
 This project is a simple cheat for the game **AssaultCube**. It allows players to activate features such as infinite health, infinite ammo, and more.
 
